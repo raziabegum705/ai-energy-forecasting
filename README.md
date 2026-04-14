@@ -192,29 +192,4 @@ Go to: **http://localhost:5173**
 | 🔮 Forecast | Adjustable forecast horizon (1/3/7/14 days), forecast data table |
 | 🧠 Analytics | R², RMSE, feature importance bars, tech stack |
 
----
 
-## 🐙 Push to GitHub
-
-```bash
-# Inside the ai-energy-forecasting folder
-git init
-git add .
-git commit -m "feat: AI Energy Forecasting System - Flask + React + Random Forest"
-git remote add origin https://github.com/YOUR_USERNAME/ai-energy-forecasting.git
-git push -u origin main
-```
-
----
-
-## 👩‍💻 Author
-
-**Razia** — B.Tech CSE, Gates Institute of Technology  
-🎯 Target: Cisco | Google | Product-Based Companies  
-🔗 LinkedIn · GitHub
-
----
-
-## 📜 License
-
-MIT — free to use for portfolio, internships, and placement interviews.
